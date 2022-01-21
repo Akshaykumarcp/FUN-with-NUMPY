@@ -6,7 +6,7 @@
 4. Numpy MindMap
 
 ### 1. What is numpy ?
-- Widely used library in data science
+- The fundamental package for scientific computing with Python
 - Can create multidimensional arrays and perform numerical operations at high speed
 - Numpy has many built in functions for linear algebra, statistical analysis, transformations etc
 - Libraries such as keras, pandas, matplotlib depend on numpy lib
