@@ -1,11 +1,14 @@
-## Table of content
+### Table of content
 
-1. What is numpy ?
-2. What numpy provides !!
-3. Numpy Operations
-4. Numpy MindMap
+1. What is numpy :question:
+2. What numpy provides :question:
+3. Numpy Operations :man_technologist:
+4. Numpy MindMap :brain:
+5. Connect with me :smiley:
 
-### 1. What is numpy ?
+---
+
+### 1. What is numpy :question:
 - The fundamental package for scientific computing with Python
 - Can create multidimensional arrays and perform numerical operations at high speed
 - Numpy has many built in functions for linear algebra, statistical analysis, transformations etc
@@ -21,13 +24,13 @@
   Numpy = numerical python
   ```
 
-### 2. Numpy provides
+### 2. Numpy provides :1234:
 - Good efficiency because closer to hardware
 - multi-dimention arrays
 - scientific computation
 - memory & time efficient
 
-### 3. Numpy Operations
+### 3. Numpy Operations :man_technologist:
 
 - 3.1 [Create array](https://github.com/Akshaykumarcp/FUN-with-NUMPY/blob/main/0.1_define_array.py)
 - 3.2 [Common arrays](https://github.com/Akshaykumarcp/FUN-with-NUMPY/blob/main/0.2_common_arrays.py)
@@ -43,5 +46,12 @@
 - 3.12 [Array shape manipulation](https://github.com/Akshaykumarcp/FUN-with-NUMPY/blob/main/1.2_array_shape_manipulations.py)
 - 3.13 [Add dimentions](https://github.com/Akshaykumarcp/FUN-with-NUMPY/blob/main/1.3_add_dimentions.py)
 
-### 4. Numpy MindMap
+### 4. Numpy MindMap :brain:
 ![alt text](https://github.com/Akshaykumarcp/FUN-with-NUMPY/blob/main/mind_mapping_numpy.jpg)
+
+### 5. Connect with me :smiley:
+
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/akshay-kumar-c-p/)
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UC3l8RTE3zBRzUrHbSXpx-qA)
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/Akshaykumarcp)
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/medium.svg" />](https://medium.com/@akshai.148)
