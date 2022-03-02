@@ -10,9 +10,12 @@
 
 ### 1. What is numpy :question:
 - The fundamental package for scientific computing with Python
-- Can create multidimensional arrays and perform numerical operations at high speed
+- Efficient interface to store and manipulate data
+- Core of almost all the data science tools in python
+- Can create and manipulate multidimensional arrays and perform numerical operations at high speed
 - Numpy has many built in functions for linear algebra, statistical analysis, transformations etc
 - Libraries such as keras, pandas, matplotlib depend on numpy lib
+- Data is mostly stored in arrays before fed to the ML algo
 - Official github repo of numpy can be found [here](https://github.com/numpy/numpy)
 
   ```
@@ -23,12 +26,20 @@
 
   Numpy = numerical python
   ```
+  
+ - Problem with python lists
+    - Objects are structures with more info
+    - List of single object type have redundant info
+    - Flexible but inefficient
 
 ### 2. Numpy provides :1234:
 - Good efficiency because closer to hardware
-- multi-dimention arrays
-- scientific computation
-- memory & time efficient
+- Arrays and multi-dimention arrays
+  - Fixed type
+  - Efficient
+  - Less flexible as compared to lists 
+- Scientific computation
+- Memory & time efficient
 
 ### 3. Numpy Operations :man_technologist:
 
